@@ -1,0 +1,29 @@
+{
+  "name": "ifunny-cl",
+  "version": "1.0.6",
+  "description": "iFunny command line client",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "keywords": [
+    "ifunny",
+    "ifunnycl"
+  ],
+  "author": "Tobi",
+  "bin": {
+    "ifunnycl": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TobiWtf/ifunnycl.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TobiWtf/ifunnycl/issues"
+  },
+  "homepage": "https://github.com/TobiWtf/ifunnycl#readme"
+}
